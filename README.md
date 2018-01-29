@@ -40,7 +40,11 @@ To Do List
 
 4、前端需要有个页面，显示36种颜色，来给用户填色;如果可以的话，可以做个动态，比如翅膀挥一挥，身体动一动
 
-5、contract
+5、contract  
+
+6、发布一种Token  
+string name = 'Dragon Design Token'
+string symbol = 'DDT'  
 
 ***
 #激励措施  
