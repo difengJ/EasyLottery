@@ -49,7 +49,9 @@ To Do List
 
 6、发布一种Token  
 string name = 'Dragon Design Token'
-string symbol = 'DDT'  
+string symbol = 'DDT'  
+token代码更新ERC20。 目前暂定发行量为1million，test unix 完成了转账测试。
+
 
 ***
 #激励措施  
